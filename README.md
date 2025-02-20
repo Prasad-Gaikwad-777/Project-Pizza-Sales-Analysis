@@ -42,7 +42,21 @@ The analysis results are visualized using a Power BI dashboard. The key insights
 - 💰 Revenue generated per order
 
 ### 🖼️ Dashboard Images
+
+
+
+## Dashboard Image 1
+
+--
+
 ![Dashboard Image 1](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/main/Output%201.png?raw=true)
+
+
+
+## Dashboard Image 2
+
+--
+
 ![Dashboard Image 2](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/main/output%202.png?raw=true)
 
 
@@ -53,10 +67,6 @@ The analysis results are visualized using a Power BI dashboard. The key insights
 2. 🧑‍💻 Run the SQL queries provided in the repository to analyze the data.
 3. 📊 Open the Power BI dashboard file to explore the visualizations.
 
----
-
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 
