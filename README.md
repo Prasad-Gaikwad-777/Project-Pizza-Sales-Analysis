@@ -43,8 +43,8 @@ The analysis results are visualized using a Power BI dashboard. The key insights
 
 ### 🖼️ Dashboard Images
 <p align="center">
-    <img src="[images/dashboard1.png](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/2c71596dcacf72aa4c3aae6d128cbc5ea6c92de0/Output%201.png)" alt="Dashboard Image 1" width="45%">
-    <img src="[images/dashboard2.png](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/2c71596dcacf72aa4c3aae6d128cbc5ea6c92de0/output%202.png)" alt="Dashboard Image 2" width="45%">
+    <img src="images/dashboard1.png](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/2c71596dcacf72aa4c3aae6d128cbc5ea6c92de0/Output%201.png" alt="Dashboard Image 1" width="45%">
+    <img src="images/dashboard2.png](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/2c71596dcacf72aa4c3aae6d128cbc5ea6c92de0/output%202.png" alt="Dashboard Image 2" width="45%">
 </p>
 
 ---
