@@ -42,10 +42,9 @@ The analysis results are visualized using a Power BI dashboard. The key insights
 - 💰 Revenue generated per order
 
 ### 🖼️ Dashboard Images
-<p align="center">
-    ![Dashboard Image 1](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/main/Output%201.png?raw=true)
-    <img src="[images/dashboard2.png](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/2c71596dcacf72aa4c3aae6d128cbc5ea6c92de0/output%202.png](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/main/output%202.png?raw=true)" alt="Dashboard Image 2" width="45%">
-</p>
+![Dashboard Image 1](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/main/Output%201.png?raw=true)
+![Dashboard Image 2](https://github.com/Prasad-Gaikwad-777/Project-Pizza-Sales-Analysis/blob/main/output%202.png?raw=true)
+
 
 ---
 
